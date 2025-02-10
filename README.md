@@ -33,7 +33,7 @@ You can install these tools using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bug-bounty-scanner.git
+git clone https://github.com/mnshchtri/bug-bounty-scanner.git
 cd bug-bounty-scanner
 ```
 
